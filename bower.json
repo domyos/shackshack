@@ -1,0 +1,22 @@
+{
+  "name": "shackshack",
+  "version": "0.0.0",
+  "authors": [
+    "Christian Richter <christian.richter@live.com>"
+  ],
+  "description": "Website for shack.shack",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "shack.shack",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": "true",
+  "dependencies": {
+    "Materialize": "materialize#~0.97.0"
+  }
+}
